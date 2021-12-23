@@ -1,4 +1,4 @@
-# Bash-Programs
+# Bash-scripts
 Network Research,
 This repository contains all scripts made to help my classmates during our Network Research module in the JBT institute.
 Some of the scripts in Bash-scripts are just displaying answers to JBT assignments using a simple echo command to print the answer,
