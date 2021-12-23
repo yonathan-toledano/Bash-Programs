@@ -1,4 +1,4 @@
-# shell-scripts
+# Shell-scripts
 # Network Research
 This repository contains all scripts made to help my classmates during our Network Research module in the JBT institute. 
 Some of the scripts in Shell-scripts are just displaying answers to JBT assignments using a simple echo command to print the answer, those assignments were given in class using a modified virtual machine. 
